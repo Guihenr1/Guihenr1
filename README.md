@@ -1,4 +1,4 @@
-<p align="center"><iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p></p>
+<p align="center"><img src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
