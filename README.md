@@ -10,7 +10,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :pencil2: In my free time I solve problems on Hacker Rank and study about new tecnologies.
+- :pencil2: In my free time I solve problems on [Hacker Rank](https://www.hackerrank.com/guilherme_pomp/) and study about new technologies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144)
 
 ---
@@ -28,3 +28,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![DesignPatterns](https://img.shields.io/badge/DesignPatterns-Intermediate-blue)
 
 ---
+
+### 🔥 &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenr1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
