@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center"><img src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <!--
 **Guihenr1/Guihenr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
