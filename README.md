@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :hammer_and_pic: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :pencil2: In my free time I solve problems on Hacker Rank and study about new tecnologies.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144)
 
 ---
 
