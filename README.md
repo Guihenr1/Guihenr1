@@ -22,8 +22,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![.NET](https://img.shields.io/badge/.NET-Expert-green)
 ![HTML](https://img.shields.io/badge/HTML-Expert-green)
 ![CSS](https://img.shields.io/badge/CSS-Expert-green)
+![Git](https://img.shields.io/badge/Git-Expert-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
-![Git](https://img.shields.io/badge/Git-Expert-green)
+![DesignPatterns](https://img.shields.io/badge/DesignPatterns-Intermediate-blue)
 
 ---
