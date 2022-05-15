@@ -17,6 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠 &nbsp;Languages and Tools :
 
+<p align="center">
 ![C#](https://img.shields.io/badge/C%23-Expert-green)
 ![SQLServer](https://img.shields.io/badge/SQLServer-Expert-green)
 ![.NET](https://img.shields.io/badge/.NET-Expert-green)
@@ -26,8 +27,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
 ![DesignPatterns](https://img.shields.io/badge/DesignPatterns-Intermediate-blue)
+</p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenr1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
