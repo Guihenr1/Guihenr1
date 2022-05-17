@@ -36,6 +36,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guihenr1&repo=learning&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=Guihenr1&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
