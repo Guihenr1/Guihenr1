@@ -7,7 +7,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :pencil2: In my free time I solve problems on [Hacker Rank](https://www.hackerrank.com/guilherme_pomp/) and study about new technologies.
