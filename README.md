@@ -22,6 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![C#](https://img.shields.io/badge/C%23-Expert-green)
 ![SQLServer](https://img.shields.io/badge/SQLServer-Expert-green)
 ![.NET](https://img.shields.io/badge/.NET-Expert-green)
+![Blazor](https://img.shields.io/badge/Blazor-Expert-green)
 ![HTML](https://img.shields.io/badge/HTML-Expert-green)
 ![CSS](https://img.shields.io/badge/CSS-Expert-green)
 ![Git](https://img.shields.io/badge/Git-Expert-green)
