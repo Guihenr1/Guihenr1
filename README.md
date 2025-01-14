@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/guilherme-henrique-pompilio-64567b144/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h1 align="center">Hey there! I'm Guilherme Pompilio welcome to my Github profile 👋</h1>
+<h1 align="center">Hey there! I'm Guilherme Henrique welcome to my Github profile 👋</h1>
 
 ### :woman_technologist: &nbsp;About Me :
 
